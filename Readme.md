@@ -2,6 +2,8 @@
 
 This repository demonstrates a structured approach to integrating Azure Databricks with Azure Data Lake Storage Gen2 and Azure SQL Database. It outlines a data pipeline that ingests raw data, processes it through bronze and silver layers, and finally writes the refined data to an Azure SQL Database.
 
+![Data Pipeline Diagram](images/azure_databricks_integration.JPG)
+
 ## Project Structure
 
  - datasets/: Contains sample datasets for demonstration purposes.
